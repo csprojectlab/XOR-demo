@@ -1,1 +1,1 @@
-# XOR
+# XOR demo using Neural network
